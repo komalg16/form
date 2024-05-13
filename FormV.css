@@ -1,0 +1,17 @@
+[type="text"]
+{
+    background: rgba(194, 66, 109, 0.203);
+}
+[type="password"]
+{
+    background: rgba(227, 181, 140, 0.445);
+}
+button[type="reset"]
+{
+    background: palegoldenrod;
+}
+input[type="reset"]
+{
+    background-color: yellow;
+}
+
